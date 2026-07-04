@@ -1,0 +1,97 @@
+# Implementation Plan: Remote Access for Gym Management (Ngrok)
+
+The goal is to allow the Boss (at home) to access the system running on the Office Laptop.
+An employee simply double-clicks **one file** (`start_system.bat`) to start everything.
+
+## Status: ✅ DONE — Script Created
+
+`start_system.bat` has been created in the project root. See setup steps below before running it.
+
+---
+
+## One-Time Setup (Do This Once)
+
+### Step 1 — Download & Install Ngrok
+1. Go to **https://ngrok.com** and create a **free account**.
+2. Download `ngrok.exe` for Windows from: **https://ngrok.com/download**
+3. Place `ngrok.exe` in one of these two locations (either works):
+   - **Same folder as `start_system.bat`** (easiest), OR
+   - Add ngrok to your Windows System PATH
+
+### Step 2 — Authenticate Ngrok
+1. After signing in to ngrok.com, go to **"Your Authtoken"** in the dashboard.
+2. Copy your token, then open Command Prompt and run:
+   ```
+   ngrok config add-authtoken PASTE_YOUR_TOKEN_HERE
+   ```
+
+### Step 3 — Claim Your Free Static Domain
+1. In the ngrok dashboard, go to **Cloud Edge → Domains**.
+2. Click **"New Domain"** — ngrok gives you one free static domain, e.g.:
+   ```
+   lucky-lion-gym.ngrok-free.app
+   ```
+3. Copy that domain name.
+
+### Step 4 — Edit `start_system.bat`
+Open `start_system.bat` in Notepad and change this line near the top:
+```bat
+set NGROK_DOMAIN=YOUR-STATIC-DOMAIN.ngrok-free.app
+```
+Replace it with your actual domain, for example:
+```bat
+set NGROK_DOMAIN=lucky-lion-gym.ngrok-free.app
+```
+Also confirm the XAMPP path is correct (default is `C:\xampp`).
+
+---
+
+## Daily Usage (Employee Instructions)
+
+1. Double-click **`start_system.bat`** in the project folder.
+2. Three things start automatically:
+   - ✅ XAMPP Apache + MySQL
+   - ✅ ZKTeco Bridge (in its own window)
+   - ✅ Ngrok tunnel (shows the public URL)
+3. Tell the Boss: **"System is ready."**
+
+The Boss opens their **bookmarked ngrok URL** from home — it never changes.
+
+---
+
+## Data Flow
+
+```
+Boss at Home
+    │
+    │  https://untransparent-daniele-unintricately.ngrok-free.dev
+    ▼
+[ Ngrok Cloud ]
+    │
+    │  Secure tunnel
+    ▼
+[ Office Laptop - XAMPP on port 80 ]
+    │
+    ├── PHP API  (/api/*.php)
+    ├── MySQL Database
+    └── ZKTeco Bridge → Fingerprint Machine (192.168.68.100)
+```
+
+---
+
+## Files Created / Modified
+
+| File | Status | Description |
+|---|---|---|
+| `start_system.bat` | ✅ NEW | Master one-click startup script |
+| `zkteco-bridge/start_bridge.bat` | existing | Bridge-only startup (still works standalone) |
+
+---
+
+## Verification Plan
+
+1. **Employee Test**: Double-click `start_system.bat` — all 3 services should start.
+2. **Local Test First**: Open `http://localhost` on the office laptop — site should load.
+3. **Tunnel Test**: Open `https://YOUR-DOMAIN.ngrok-free.app` on the same laptop first.
+4. **Remote Test (Boss)**: Boss opens the ngrok URL from home — site should load.
+5. **End-to-End**: Boss performs an action (e.g., Add Member) — check if it saves to DB and syncs to door machine.

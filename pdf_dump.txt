@@ -1,0 +1,2335 @@
+Vortex Fitness Club
+Payment records from January 1, 2026 to March 12, 2026
+Date                Member info         Payment info                   Total            Discount      Paid             Due
+01-01-202606:00AM
+Raiyan - 0245
++8801771390712
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+01-01-202606:00AM
+Zubair Hasan Siraji -
+0005
++8801614809000
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          0                          1500
+01-01-202606:00AM
+HM Nawaf Ul Nafim -
+0619
++8801309543707
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      0                          3000
+01-01-202606:00AM
+MD. Adil Foysal Fuad
+- 0618
++8801882384813
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+01-01-202606:00AM
+Mithun Marshal - 0577
++8801752260621
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+01-01-202606:00AM
+Suborna Rahman -
+0617
++8801340796504
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+02-01-202606:00AM
+Azmayeen Nahian -
+0622
++8801987365359
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+02-01-202606:00AM
+Md Ruhul Amin - 0621
++8801869910218
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          3000                    2000
+02-01-202606:00AM
+Sadman Sadif Esham
+- 0620
++8801946204115
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+02-01-202606:00AM
+HM Nawaf Ul Nafim -
+0619
++8801309543707
+DUE_PAYMENT, BKASH                      3000                    0                          3000                    0
+02-01-202606:00AM
+Amirul Islam - 0410
++8801338950061
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CARD
+4000                    0                          4000                    0
+03-01-202606:00AM
+Tashdid Shan - 0631
++8801861914426
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+03-01-202606:00AM
+Md Usama Molla -
+0632
++8801714359521
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          2000                    2000
+03-01-202606:00AM
+Ayubur Rahman -
+0057
++8801791961965
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CARD
+4000                    0                          4000                    0
+03-01-202606:00AM
+Redoan Kaddus -
+0630
++8801871002332
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+03-01-202606:00AM
+Himel - 0021
++8801760095348
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          1500                    2500
+----------------Page (0) Break----------------
+03-01-202606:00AM
+Imran M Shiblee -
+0020
++8801787888758
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+03-01-202606:00AM
+Ahanaf Tanvir - 0629
++8801956801845
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+03-01-202606:00AM
+MD. Zunayed - 0628
++8801628049949
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          4500                    500
+03-01-202606:00AM
+Safwan Ibne Emdad -
+0627
++8801759055930
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+03-01-202606:00AM
+Ahnaf Tamzid
+Tonmoy - 0572
++8801329689351
+DUE_PAYMENT, CARD                        6500                    0                          6500                    0
+03-01-202606:00AM
+Fahim Ahmed Khan -
+0626
++8801305845231
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+03-01-202606:00AM
+Sumiya Bintay Islam -
+0506
++8801705576208
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+03-01-202606:00AM
+Farhan Ahmed Tahsin
+- 0043
++8801989925744
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+03-01-202606:00AM
+Tanjim Kabir Zoha -
+0625
++8801551042061
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+03-01-202606:00AM
+Rizbi - 0585
++8801793707537
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+03-01-202606:00AM
+Mst Asma Khatun
+Popi - 0624
++8801733634889
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+03-01-202606:00AM
+Nazia Hoque - 0623
++8801852046969
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+03-01-202606:00AM
+Md Ruhul Amin - 0621
++8801869910218
+DUE_PAYMENT, CASH                        2000                    0                          2000                    0
+04-01-202606:00AM
+Masrur Rahman
+Sopno - 0635
++8801727066088
+REGULAR_PAYMENT, STARTER
+(1 month..., CARD
+3500                    500                      3000                    0
+04-01-202606:00AM
+Ashfaque Ahmed
+Shorup - 0634
++8801739537420
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., BKASH
+5000                    0                          5000                    0
+04-01-202606:00AM
+Noufel Azam Muhit -
+0633
++8801747495760
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+04-01-202606:00AM
+Muhammed Farhan
+Sadique Mahi - 0105
++8801881960259
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+04-01-202606:00AM
+Siam - 0100
++8801711201808
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+----------------Page (1) Break----------------
+04-01-202606:00AM
+Sazzad Mahmud -
+0081
++8801708348440
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+05-01-202606:00AM
+Syed Aharaf - 0079
++8801301875008
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+05-01-202606:00AM
+Tanzim Rizwan - 0117
++8801515259057
+REGULAR_PAYMENT, NY 6+2
+MONTHS, CASH
+7000                    0                          7000                    0
+05-01-202606:00AM
+Mohammad Safwan
+Siddiquee - 0640
++8801718191981
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      2000                    1000
+05-01-202606:00AM
+Sadman Saif
+Chowdhury - 0055
++8801823200700
+REGULAR_PAYMENT, NY 3+1
+MONTHS, BKASH
+4000                    0                          4000                    0
+05-01-202606:00AM
+Mohidul Shamrat -
+0249
++8801642261901
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+05-01-202606:00AM
+Salman Farsi - 0639
++8801313735407
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+05-01-202606:00AM
+Shafin Islam - 0638
++8801862251459
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+05-01-202606:00AM
+Irfan Talikder - 0036
++8801408716080
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+05-01-202606:00AM
+Jobayer Bin Islam -
+0637
++8801316124919
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+05-01-202606:00AM
+Rupa Islam - 0636
++8801858609263
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          2000                    3000
+05-01-202606:00AM
+Maliha Tabassum
+Taaj - 0470
++8801572704233
+REGULAR_PAYMENT, NY 3+1
+MONTHS, BKASH
+4000                    0                          4000                    0
+06-01-202606:00AM
+Tahmid Hossen -
+0646
++8801511214007
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+06-01-202606:00AM
+Md Mohibur Rahman
+Jewel - 0648
++8801681454455
+REGULAR_PAYMENT, NY'26
+ADVANCE (6..., BANK
+8000                    0                          8000                    0
+06-01-202606:00AM
+Mehedi Hasan Topu -
+0217
++8801300662966
+DUE_PAYMENT, CASH                        2000                    0                          2000                    0
+06-01-202606:00AM
+Prionty Prity - 0216
++8801992858672
+DUE_PAYMENT, CASH                        2000                    0                          2000                    0
+06-01-202606:00AM
+Mohammad Safwan
+Siddiquee - 0640
++8801718191981
+DUE_PAYMENT, CASH                        1000                    0                          1000                    0
+06-01-202606:00AM
+Md Usama Molla -
+0632
++8801714359521
+DUE_PAYMENT, CASH                        2000                    0                          2000                    0
+----------------Page (2) Break----------------
+06-01-202606:00AM
+Md Sadman Sadid Atif
+- 0647
++8801304095531
+DUE_PAYMENT, BKASH                      500                      0                          500                      0
+06-01-202606:00AM
+Md Sadman Sadid Atif
+- 0647
++8801304095531
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    1500                    1500                    500
+06-01-202606:00AM
+Kh Rahat Morshed -
+0156
++8801916166625
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CARD
+4000                    0                          4000                    0
+06-01-202606:00AM
+Iqbal Ahmed Tapash -
+0645
++8801716559399
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., BKASH
+5000                    0                          5000                    0
+06-01-202606:00AM
+Tahmid Hasan Rayat
+- 0503
++8801741772908
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+06-01-202606:00AM
+Zohayeb Ahmad -
+0644
++8801886893276
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+06-01-202606:00AM
+Ali Chowdhury - 0641
++8801719866889
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+06-01-202606:00AM
+Zannatul Ferdous -
+0642
++8801746995141
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+06-01-202606:00AM
+Sharmin Akter - 0643
++8801734198747
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+07-01-202606:00AM
+Ali Modasser Nayem -
+0605
++8801816090766
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+07-01-202606:00AM
+Rubina Islam - 0649
++8801730595879
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+07-01-202606:00AM
+Rezwan Hossain
+Rivan - 0341
++8801886107623
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+07-01-202606:00AM
+Sayed Obaidun Noor
+Abtahi - 0581
++8801623638457
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+07-01-202606:00AM
+Fateen Abrar - 0133
++8801339551517
+REGULAR_PAYMENT, NY 3+1
+MONTHS, BKASH
+4000                    0                          2000                    2000
+08-01-202606:00AM
+Soad Hasan - 0143
++8801615276291
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+08-01-202606:00AM
+Musaib Bin Hasan -
+0438
++8801646961486
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+08-01-202606:00AM
+Md Shafin Shaharia -
+0653
++8801521436437
+REGULAR_PAYMENT, NY'26
+ADVANCE (6..., CARD
+8000                    0                          8000                    0
+08-01-202606:00AM
+Zaki Tanvir - 0652
++8801795532441
+REGULAR_PAYMENT, NY'26
+ADVANCE (6..., CARD
+8000                    0                          8000                    0
+----------------Page (3) Break----------------
+08-01-202606:00AM
+MD. Kamruzzaman -
+0132
++8801995326398
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CARD
+4000                    0                          4000                    0
+08-01-202606:00AM
+Md. Wasi Talukdar -
+0651
++8801728257431
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+08-01-202606:00AM
+SM Sadman Farid
+Samin - 0650
++8801830586849
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+09-01-202606:00AM
+Mir Zakaria Alam -
+0401
++8801617847602
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+09-01-202606:00AM
+Sayed Ashfaq
+Hossain - 0269
++8801784399581
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+09-01-202606:00AM
+Hridoy Khondokar -
+0146
++8801314520833
+DUE_PAYMENT, CASH                        2500                    0                          500                      2000
+09-01-202606:00AM
+Hridoy Khondokar -
+0146
++8801314520833
+REGULAR_PAYMENT, NY 3+1
+MONTHS, BKASH
+4000                    0                          1500                    2500
+09-01-202606:00AM
+Abdul Ahad Marzen -
+0149
++8801787556920
+REGULAR_PAYMENT, NY 3+1
+MONTHS, BKASH
+4000                    0                          2000                    2000
+09-01-202606:00AM
+Sabit Bhuiyan - 0150
++8801936449664
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          2000                    2000
+10-01-202606:00AM
+Nandita Bishwas -
+0421
++8801712435370
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+10-01-202606:00AM
+Md Sidratul Muntaha -
+0198
++8801768648944
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+10-01-202606:00AM
+MD Bijoy Hossain -
+0526
++8801818350128
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+10-01-202606:00AM
+MD. Irfan Ahmed -
+0138
++8801712119636
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          2000                    2000
+10-01-202606:00AM
+Salman Farsi - 0283
++8801318349432
+DUE_PAYMENT, CASH                        1000                    0                          1000                    0
+10-01-202606:00AM
+Salman Farsi - 0283
++8801318349432
+REGULAR_PAYMENT, NY 3+1
+MONTHS, BKASH
+4000                    0                          3000                    1000
+10-01-202606:00AM
+Md Rahat - 0223
++8801610703613
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+10-01-202606:00AM
+Samir Farhan - 0658
++8800308136706
+REGULAR_PAYMENT, STARTER
+(1 month..., CARD
+3500                    1000                    2500                    0
+10-01-202606:00AM
+Junaed Ahmed Nabil -
+0657
++8801993022861
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+----------------Page (4) Break----------------
+10-01-202606:00AM
+Md Tajwar Rahman -
+0656
++8801715833145
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          4500                    500
+10-01-202606:00AM
+Ayesha Akter - 0655
++8801737452259
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+10-01-202606:00AM
+Imtiyaz Hasan - 0654
++8801318544942
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., BKASH
+5000                    0                          5000                    0
+10-01-202606:00AM
+Md Adnan Al Nahian -
+0001
++8801308136706
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CARD
+4000                    0                          4000                    0
+11-01-202606:00AM
+Mahadi Shishir - 0665
++8801628064407
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+11-01-202606:00AM
+Nasif Fuad - 0664
++8801728000882
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+11-01-202606:00AM
+Jalal Uddin - 0663
++8801864666705
+REGULAR_PAYMENT, NY'26
+ADVANCE (6..., CASH
+8000                    0                          3000                    5000
+11-01-202606:00AM
+Omar Mostafa - 0119
++8801757476524
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+11-01-202606:00AM
+Faisal Ahmed - 0221
++8801316196110
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+11-01-202606:00AM
+Md Tarikul
+Alam(Sayem) - 0098
++8801716491077
+REGULAR_PAYMENT, 3 Months ,
+CASH
+4500                    500                      4000                    0
+11-01-202606:00AM
+Md Siyam Hasan
+Ratul - 0515
++8801968032907
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+11-01-202606:00AM
+Nasir uddin - 0068
++8801924749007
+REGULAR_PAYMENT, NY 6+2
+MONTHS, CASH
+7000                    0                          6000                    1000
+11-01-202606:00AM
+Ibna Jiam - 0662
++8801829738710
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., BKASH
+5000                    0                          5000                    0
+11-01-202606:00AM
+Niloy Ghosh - 0661
++8801886233152
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., BKASH
+5000                    0                          5000                    0
+11-01-202606:00AM
+Ibrahim Anis - 0660
++8801521785156
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., BKASH
+5000                    0                          5000                    0
+11-01-202606:00AM
+Jasmin Akter - 0598
++8801818336070
+DUE_PAYMENT, CASH                        2000                    0                          2000                    0
+11-01-202606:00AM
+Poly Akter - 0472
++8801623732875
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          2500                    1500
+11-01-202606:00AM
+Abdul Wahid - 0659
++8801777231978
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+11-01-202606:00AM
+Ayman Sarker - 0586
++8801725890110
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+12-01-202606:00AM
+Amir Hussain - 0171
++8801306651868
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          1500                    2500
+----------------Page (5) Break----------------
+12-01-202606:00AM
+Radowan Ahmed
+Antu - 0207
++8801943046110
+REGULAR_PAYMENT, NY 3+1
+MONTHS, BKASH
+4000                    0                          4000                    0
+12-01-202606:00AM
+Asif Adnan - 0206
++8801711084613
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CARD
+4000                    0                          4000                    0
+12-01-202606:00AM
+Nasir uddin - 0068
++8801924749007
+DUE_PAYMENT, CASH                        1000                    0                          1000                    0
+13-01-202606:00AM
+Jannatul Ferdous
+Rura - 0670
++8801624895204
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+13-01-202606:00AM
+Sazid Hasan - 0669
++8801820038654
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+13-01-202606:00AM
+Md Bodruzzaman
+Sifat - 0668
++8801980635316
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., BKASH
+5000                    0                          5000                    0
+13-01-202606:00AM
+Khan Shuvo - 0554
++8801975119934
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+13-01-202606:00AM
+Aditta - 0301
++8801974048445
+REGULAR_PAYMENT, NY 3+1
+MONTHS, BKASH
+4000                    0                          4000                    0
+13-01-202606:00AM
+Rupa Islam - 0636
++8801858609263
+DUE_PAYMENT, CASH                        3000                    0                          3000                    0
+13-01-202606:00AM
+Saymon - 0666
++8801330140720
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+13-01-202606:00AM
+Junaid Ibna Jafor -
+0490
++8801675268848
+REGULAR_PAYMENT, 3 Months ,
+CARD
+4500                    500                      4000                    0
+13-01-202606:00AM
+MD. Ahnaf - 0667
++8801746089571
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+14-01-202606:00AM
+Md Akramul Haq
+Rafin - 0478
++8801727694164
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+14-01-202606:00AM
+Sumiya Tabassum
+Riha - 0671
++8801682073091
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+14-01-202606:00AM
+Aulid Khondoker -
+0677
++8801799441693
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    1000                    2500                    0
+14-01-202606:00AM
+Fahima Rahman Any
+- 0354
++8801300547316
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+14-01-202606:00AM
+Md Al Faruky - 0676
++8801306758727
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+14-01-202606:00AM
+Shadab Sipar - 0675
++8801407374241
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+14-01-202606:00AM
+Mahir Labib
+Chowdhury - 0674
++8801922107203
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., BKASH
+5000                    0                          5000                    0
+----------------Page (6) Break----------------
+14-01-202606:00AM
+Farhan Parvez - 0673
++8801825731417
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+14-01-202606:00AM
+Nazmun Nahar - 0672
++8801920835407
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+15-01-202606:00AM
+Sabir Azim Zimdaal -
+0492
++8801771567293
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          2000                    2000
+15-01-202606:00AM
+MD Elias Kanchan -
+0519
++8801673544471
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+15-01-202606:00AM
+Md Shariful Alam -
+0520
++8801678714477
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+15-01-202606:00AM
+Sabir Azim Zimdaal -
+0492
++8801771567293
+DUE_PAYMENT, CARD                        2000                    0                          2000                    0
+15-01-202606:00AM
+MD. Irfan Ahmed -
+0138
++8801712119636
+DUE_PAYMENT, BKASH                      2000                    0                          2000                    0
+15-01-202606:00AM
+Asoad Islam Zisan -
+0169
++8801750687333
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          3000                    1000
+15-01-202606:00AM
+Abdur Rahman
+Shagor - 0504
++8801703563632
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+15-01-202606:00AM
+Nazneen Bethi - 0679
++8801711378409
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+15-01-202606:00AM
+Golam Haider - 0678
++8801851013402
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+15-01-202606:00AM
+Mohammad Morshed
+Alam - 0278
++8801716638601
+REGULAR_PAYMENT, NY 12+3
+MONTHS, CARD
+11000                  0                          11000                  0
+15-01-202606:00AM
+MD. Abu Sayed
+Bhuiyan - 0680
++8801610103411
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+16-01-202606:00AM
+Md Walid Bin Omar
+Bhuiyan - 0682
++8801916062510
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          1000                    4000
+16-01-202606:00AM
+Tahsin Abtahi Nadid -
+0681
++8801606473626
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+17-01-202606:00AM
+MD. Sakil Ahmed -
+0475
++8801786275166
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+17-01-202606:00AM
+Sazzad Mahmud -
+0081
++8801708348440
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+17-01-202606:00AM
+Md Walid Bin Omar
+Bhuiyan - 0682
++8801916062510
+DUE_PAYMENT, CARD                        4000                    0                          4000                    0
+----------------Page (7) Break----------------
+17-01-202606:00AM
+Sajid Turno - 0172
++8801831571024
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          1500                    2500
+17-01-202606:00AM
+Sayed Alam - 0208
++8801777059364
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+17-01-202606:00AM
+Nahidul Islam Kanan -
+0353
++8801684962965
+REGULAR_PAYMENT, NY 12+3
+MONTHS, BKASH
+11000                  0                          11000                  0
+17-01-202606:00AM
+Raiyan Hassan - 0209
++8801871785100
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+17-01-202606:00AM
+Rafiul Islam - 0314
++8801314883606
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+17-01-202606:00AM
+Asibur Rahman Moon
+- 0683
++8801559080704
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+18-01-202606:00AM
+Naimur Rahman
+Abanto - 0392
++8801521436219
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+19-01-202606:00AM
+Tazwar Atiq
+Chaudhury - 0210
++8801620105088
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+19-01-202606:00AM
+MD. Irfanul Hossain
+Bhuiyan Rafi - 0684
++8801300414522
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          1000                    4000
+19-01-202606:00AM
+Asifur Rahman Asif -
+0200
++8801316682664
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+19-01-202606:00AM
+MD Yeasin Hamid
+Sinha - 0019
++8801676406058
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CARD
+4000                    0                          4000                    0
+20-01-202606:00AM
+Tithy - 0686
++8801533368126
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+20-01-202606:00AM
+Borhan Shahriar Jibon
+- 0685
++8801795034616
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+20-01-202606:00AM
+Asoad Islam Zisan -
+0169
++8801750687333
+DUE_PAYMENT, CASH                        1000                    0                          1000                    0
+20-01-202606:00AM
+Fateen Abrar - 0133
++8801339551517
+DUE_PAYMENT, BKASH                      2000                    0                          2000                    0
+21-01-202606:00AM
+Jawad Ahanaf - 0480
++8801828065309
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+21-01-202606:00AM
+Munira Murshed
+Rupanti - 0493
++8801795095710
+REGULAR_PAYMENT, Monthly,
+CARD
+1500                    0                          1500                    0
+21-01-202606:00AM
+Raihan Rawnak
+Chowdhury - 0688
++8801752720933
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+----------------Page (8) Break----------------
+21-01-202606:00AM
+Mohammad Muktadir
+Rashid Chowdhury -
+0601
++8801782629717
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+21-01-202606:00AM
+Taki Osman - 0689
++8801879303275
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+21-01-202606:00AM
+Saba Sanoara - 0467
++8801741041603
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+21-01-202606:00AM
+Poly Akter - 0472
++8801623732875
+DUE_PAYMENT, CASH                        1500                    0                          1500                    0
+21-01-202606:00AM
+Abid Mohammad -
+0687
++8801342701920
+REGULAR_PAYMENT, STARTER
+(1 month..., CARD
+3500                    500                      3000                    0
+22-01-202606:00AM
+Hasin Muyeed Ahmed
+- 0595
++8801916860498
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+22-01-202606:00AM
+Mojjammal Hossain
+Mithil - 0691
++8801972473847
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+22-01-202606:00AM
+HM Tahsin Karim Mon
+- 0693
++8801312787931
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+22-01-202606:00AM
+Farial Ferdous - 0692
++8801327403223
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+22-01-202606:00AM
+Alvy Rahman - 0690
++8801846992051
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., BKASH
+5000                    0                          5000                    0
+23-01-202606:00AM
+Md Muaj E Zaman
+Mihaal - 0694
++8801799135359
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CARD
+5000                    0                          5000                    0
+23-01-202606:00AM
+Md Mashruf Mustafi
+Ifty - 0170
++8801898213051
+REGULAR_PAYMENT, Monthly,
+CARD
+1500                    0                          1500                    0
+24-01-202606:00AM
+Sajid Turno - 0172
++8801831571024
+DUE_PAYMENT, CASH                        2500                    0                          2500                    0
+24-01-202606:00AM
+MD. Zunayed - 0628
++8801628049949
+DUE_PAYMENT, BKASH                      500                      0                          500                      0
+24-01-202606:00AM
+Hasin Abrar - 0224
++8801875525800
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CASH
+4000                    0                          4000                    0
+24-01-202606:00AM
+Md Tahsin Ahmed -
+0695
++8801606559936
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+24-01-202606:00AM
+Nafis Madhat Rahman
+- 0696
++8801313008768
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+24-01-202606:00AM
+Rifat Bin Yusuf - 0697
++8801630085922
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+24-01-202606:00AM
+Ahnaf Tahmid Reza -
+0698
++8801601021762
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+----------------Page (9) Break----------------
+24-01-202606:00AM
+Saiful Islam - 0699
++8801618951647
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+24-01-202606:00AM
+Fazlur Rahman - 0700
++8801716735953
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    500                      3000                    0
+24-01-202606:00AM
+Amir Hussain - 0171
++8801306651868
+DUE_PAYMENT, BKASH                      2500                    0                          2500                    0
+24-01-202606:00AM
+Md Saif Ali Khan -
+0701
++8801756458366
+REGULAR_PAYMENT, NY'26
+PROFESSION..., CASH
+12000                  0                          8000                    4000
+25-01-202606:00AM
+Md Fahad Zamil -
+0702
++8801677275219
+REGULAR_PAYMENT, GROWTH
+(3 month ..., BKASH
+6500                    1500                    5000                    0
+25-01-202606:00AM
+Al Munjir Mahmud -
+409 +8801552823209
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+25-01-202606:00AM
+Md Saif Ali Khan -
+0701
++8801756458366
+DUE_PAYMENT, CASH                        4000                    0                          4000                    0
+26-01-202606:00AM
+Abdul Ahad Marzen -
+0149
++8801787556920
+DUE_PAYMENT, CASH                        2000                    0                          2000                    0
+26-01-202606:00AM
+Tawhid Mollah Orpon
+- 0377
++8801866815717
+REGULAR_PAYMENT, 2 month ,
+CARD
+3000                    0                          3000                    0
+26-01-202606:00AM
+MD. Irfanul Hossain
+Bhuiyan Rafi - 0684
++8801300414522
+DUE_PAYMENT, BKASH                      4000                    0                          4000                    0
+27-01-202606:00AM
+Md Mahabe Kawsan -
+0507
++8801788436095
+REGULAR_PAYMENT, 3 Months ,
+CASH
+4000                    0                          4000                    0
+27-01-202606:00AM
+MD Fida Hasan -
+0508
++8801714463024
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+27-01-202606:00AM
+Tihan - 0145
++8801754455925
+REGULAR_PAYMENT, Monthly,
+CARD
+1500                    0                          1500                    0
+27-01-202606:00AM
+Fatema Jannat Moon
+- 0271
++8801770575289
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+27-01-202606:00AM
+Ahmed Ausaf Rashik -
+0703
++8801786633874
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+6500                    1500                    5000                    0
+28-01-202606:00AM
+Mahbuba Khanam
+Kona - 0522
++8801711187742
+REGULAR_PAYMENT, 6 Months ,
+CASH
+7000                    1000                    6000                    0
+28-01-202606:00AM
+Farial Ahmed Flora -
+0101
++8801977305504
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+28-01-202606:00AM
+Fardin Ahmed - 0077
++8801977307703
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+----------------Page (10) Break----------------
+28-01-202606:00AM
+Farhan Ahmed - 0502
++8801911305504
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+29-01-202606:00AM
+Nakibul Islam Nabir -
+0704
++8801820244679
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+6500                    1500                    5000                    0
+29-01-202606:00AM
+Hridoy Khondokar -
+0146
++8801314520833
+DUE_PAYMENT, CASH                        2000                    0                          2000                    0
+29-01-202606:00AM
+Mithun Marshal - 0577
++8801752260621
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+29-01-202606:00AM
+Sani - 0017
++8801776432335
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+29-01-202606:00AM
+Taqiya Jannat Rida -
+0591
++8800718676742
+REGULAR_PAYMENT, Monthly,
+CARD
+1500                    0                          1500                    0
+29-01-202606:00AM
+Aysha Siddiqa - 0511
++8801718676742
+REGULAR_PAYMENT, 3 Months ,
+CARD
+4000                    0                          4000                    0
+29-01-202606:00AM
+Shahin Sheikh - 0264
++8801711507641
+REGULAR_PAYMENT, 3 Months ,
+CARD
+4000                    0                          4000                    0
+30-01-202606:00AM
+Labib Abdullah Zawad
+- 0708
++8801410597504
+REGULAR_PAYMENT, STARTER
+(1 month..., CARD
+3500                    0                          3500                    0
+30-01-202606:00AM
+Adnan Mahmud
+Rahman - 0707
++8801973282450
+REGULAR_PAYMENT, STARTER
+(1 month..., CARD
+3500                    0                          3500                    0
+30-01-202606:00AM
+Md Moniruzzaman
+Masud - 0706
++8801987900410
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+30-01-202606:00AM
+Faridul Hasan Ahnaf -
+0705
++8801937063404
+REGULAR_PAYMENT, STARTER
+(1 month..., CARD
+3500                    0                          3500                    0
+31-01-202606:00AM
+Md Mahedi Hassan
+Saad - 0710
++8801619384706
+REGULAR_PAYMENT, ADVANCE
+(6 month..., CARD
+11000                  3000                    8000                    0
+31-01-202606:00AM
+Md Sajid Bin Abdullah
+- 0709
++8801884500009
+REGULAR_PAYMENT, NY'26
+GROWTH (3+..., CASH
+5000                    0                          5000                    0
+31-01-202606:00AM
+Rahib - 0025
++8801903108266
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+31-01-202606:00AM
+Ridwan Ahmed Rafi -
+0510
++8801974250930
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+01-02-202606:00AM
+Saymon - 0715
++8801918274689
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+6500                    2000                    4500                    0
+01-02-202606:00AM
+Humaira Islam - 0714
++8801327998178
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          2000                    1500
+01-02-202606:00AM
+AKM Ifazul Hoque -
+0713
++8801940704868
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          3500                    0
+----------------Page (11) Break----------------
+01-02-202606:00AM
+Asmaun Nahar - 0712
++8801872504161
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          3500                    0
+01-02-202606:00AM
+Nafisa Tabassum -
+0711
++8801977003795
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          3500                    0
+02-02-202606:00AM
+Lina Akter - 0716
++8801746172144
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          3500                    0
+02-02-202606:00AM
+Faria Binty Masud -
+0717
++8800746172144
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          2500                    1000
+02-02-202606:00AM
+Humaira Islam - 0714
++8801327998178
+DUE_PAYMENT, CASH                        1500                    0                          1500                    0
+03-02-202606:00AM
+Mohammad Omaer -
+0718
++8801818312569
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+6500                    1500                    5000                    0
+03-02-202606:00AM
+Junayed Alam
+Chowdhury - 0719
++8801704564575
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          3500                    0
+03-02-202606:00AM
+Mohtasim Khan -
+0720
++8801908981415
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+6500                    1500                    5000                    0
+03-02-202606:00AM
+All Imran Shaad -
+0361
++8801794733263
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+03-02-202606:00AM
+Muhammed Farhan
+Sadique Mahi - 0105
++8801881960259
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+03-02-202606:00AM
+MD. Adil Foysal Fuad
+- 0618
++8801882384813
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+04-02-202606:00AM
+Faria Binty Masud -
+0717
++8800746172144
+DUE_PAYMENT, CASH                        1000                    0                          1000                    0
+04-02-202606:00AM
+Farhan Ahmed Tahsin
+- 0043
++8801989925744
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+04-02-202606:00AM
+Omar Mostafa - 0119
++8801757476524
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+04-02-202606:00AM
+Al-Jami Bin Rahman -
+0451
++8801314860365
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+04-02-202606:00AM
+Md Estiyak Eyakub
+Sohag - 0721
++8801631340058
+REGULAR_PAYMENT, GROWTH
+(3 month ..., BKASH
+6500                    1500                    5000                    0
+05-02-202606:00AM
+Sabbir Shahriar -
+0530
++8801806599191
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+05-02-202606:00AM
+Tawhid Ahmed - 0722
++8801842869420
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          3500                    0
+----------------Page (12) Break----------------
+05-02-202606:00AM
+Nazia Hoque - 0623
++8801852046969
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+06-02-202606:00AM
+Shahrul Islam Seam -
+0725
++8801859431803
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+6500                    1500                    2000                    3000
+06-02-202606:00AM
+Ashraful Haque Arpon
+- 0724
++8801879792325
+REGULAR_PAYMENT, GROWTH
+(3 month ..., BKASH
+6500                    1500                    5000                    0
+06-02-202606:00AM
+Rudra Md Soyeban
+Koofia - 0723
++8801309392712
+REGULAR_PAYMENT, GROWTH
+(3 month ..., BKASH
+6500                    1500                    5000                    0
+07-02-202606:00AM
+Md Fahim - 0727
++8801971900879
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+6500                    1500                    5000                    0
+07-02-202606:00AM
+Labib Alahi - 0535
++8801949180432
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+07-02-202606:00AM
+Abdullam Naeem -
+0726
++8801688299640
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+6500                    1500                    5000                    0
+07-02-202606:00AM
+Sayed Ashfaq
+Hossain - 0269
++8801784399581
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+07-02-202606:00AM
+Taosif Niam - 0317
++8801307458266
+REGULAR_PAYMENT, 6 Months ,
+CASH
+7000                    0                          6000                    1000
+07-02-202606:00AM
+Azmayeen Nahian -
+0622
++8801987365359
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+07-02-202606:00AM
+Kazi Tararzu Rahber -
+0129
++8801723446343
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+07-02-202606:00AM
+Md Jayed Hossain
+Bhuyan - 0728
++8801675955431
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+6500                    1500                    5000                    0
+08-02-202606:00AM
+Mohammad Safwan
+Siddiquee - 0640
++8801718191981
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+08-02-202606:00AM
+Mohammad Bin
+Hossasin - 0266
++8801316893025
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+08-02-202606:00AM
+Shafayet Jamil - 0501
++8801923650286
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+08-02-202606:00AM
+Taosif Niam - 0317
++8801307458266
+DUE_PAYMENT, CASH                        1000                    0                          1000                    0
+08-02-202606:00AM
+MD. Sakil Ahmed -
+0475
++8801786275166
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+09-02-202606:00AM
+Alim Zaman - 0729
++8801891907770
+REGULAR_PAYMENT, GROWTH
+(3 month ..., BKASH
+6500                    2000                    4500                    0
+09-02-202606:00AM
+Urmi Hasan - 0525
++8801312683638
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+----------------Page (13) Break----------------
+10-02-202606:00AM
+Hanif Hossain - 0239
++8801328826037
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+10-02-202606:00AM
+Utsho Sarkar - 0731
++8801320390370
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          3400                    100
+10-02-202606:00AM
+Mohammad Regan
+Bhuyan - 0730
++8801708143179
+REGULAR_PAYMENT, ADVANCE
+(6 month..., CASH
+11000                  3000                    8000                    0
+10-02-202606:00AM
+Md Sadman Sadid Atif
+- 0647
++8801304095531
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+10-02-202606:00AM
+Istiaque Ahmed
+Tonmoy - 0732
++8801614412122
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          1500                    2000
+10-02-202606:00AM
+Shahrul Islam Seam -
+0725
++8801859431803
+DUE_PAYMENT, CASH                        3000                    0                          3000                    0
+11-02-202606:00AM
+Mohammad Yeakub
+Chowdhury - 0536
++8801942741189
+REGULAR_PAYMENT, NY 3+1
+MONTHS, CARD
+4000                    0                          4000                    0
+11-02-202606:00AM
+Rizbi - 0585
++8801793707537
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+13-02-202606:00AM
+Md Siyam Hasan
+Ratul - 0515
++8801968032907
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+13-02-202606:00AM
+Erfan Chowdhury
+Labib - 0486
++8801934903887
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+14-02-202606:00AM
+Hossain MD Anas -
+0735
++8801734374215
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+6500                    2000                    4500                    0
+14-02-202606:00AM
+Mobinul Islam Mahi -
+0734
++8801647135496
+REGULAR_PAYMENT, STARTER
+(1 month..., CARD
+3500                    0                          3500                    0
+14-02-202606:00AM
+Fahim Bin Zaman -
+0733
++8801591134975
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          2500                    1000
+14-02-202606:00AM
+Tawaf Hossain
+Sayem - 0080
++8801950047634
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1300                    200
+14-02-202606:00AM
+Tawaf Hossain
+Sayem - 0080
++8801950047634
+DUE_PAYMENT, CASH                        200                      0                          200                      0
+14-02-202606:00AM
+Raiyan Hassan - 0209
++8801871785100
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+15-02-202606:00AM
+Md Al Faruky - 0676
++8801306758727
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+15-02-202606:00AM
+Imrul Kayes - 0736
++8801773328092
+REGULAR_PAYMENT,
+PROFESSIONAL (1 ..., BANK
+20000                  8000                    12000                  0
+----------------Page (14) Break----------------
+15-02-202606:00AM
+Jubaer Alom Araf -
+0002
++8801704899658
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+15-02-202606:00AM
+Sazzad Mahmud -
+0081
++8801708348440
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+15-02-202606:00AM
+Sharafat Shahriar
+Himel - 0737
++8801892412029
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          3500                    0
+16-02-202606:00AM
+Sayed Obaidun Noor
+Abtahi - 0581
++8801623638457
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+16-02-202606:00AM
+AKM Hasibul Haq
+Nurani - 0738
++8801733678377
+REGULAR_PAYMENT, GROWTH
+(3 month ..., BKASH
+6500                    1500                    5000                    0
+16-02-202606:00AM
+Deboraj Dey Dibya -
+0179
++8801886705730
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+16-02-202606:00AM
+Priom - 0219
++8801830089363
+REGULAR_PAYMENT, 3 Months ,
+CASH
+4000                    0                          4000                    0
+16-02-202606:00AM
+Istiaque Ahmed
+Tonmoy - 0732
++8801614412122
+DUE_PAYMENT, BKASH                      2000                    0                          500                      1500
+16-02-202606:00AM
+Ayman Sarker - 0586
++8801725890110
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+17-02-202606:00AM
+Sabit Bhuiyan - 0150
++8801936449664
+DUE_PAYMENT, CASH                        2000                    0                          2000                    0
+17-02-202606:00AM
+Fahim Bin Zaman -
+0733
++8801591134975
+DUE_PAYMENT, CASH                        1000                    0                          1000                    0
+18-02-202606:00AM
+Ali Haider Rohan -
+0739
++8801929616388
+DUE_PAYMENT, BKASH                      600                      0                          600                      0
+18-02-202606:00AM
+Tamim - 0740
++8801910685283
+REGULAR_PAYMENT, STARTER
+(1 month..., BKASH
+3500                    0                          3000                    500
+18-02-202606:00AM
+Ali Haider Rohan -
+0739
++8801929616388
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          2900                    600
+18-02-202606:00AM
+Himel - 0021
++8801760095348
+DUE_PAYMENT, CASH                        2500                    0                          2500                    0
+18-02-202606:00AM
+Faisal Ahmed - 0221
++8801316196110
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+19-02-202606:00AM
+Raiyaan Chowdhury -
+0482
++8801817748388
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+19-02-202606:00AM
+Golam Noor
+Mohammad - 0742
++8801756286773
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+6500                    1500                    2000                    3000
+----------------Page (15) Break----------------
+19-02-202606:00AM
+Apurba Sarker - 0741
++8801522123289
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+6500                    1500                    5000                    0
+20-02-202606:00AM
+Chinmoy Chowdhury -
+0743
++8801888115711
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+6500                    1500                    2500                    2500
+20-02-202606:00AM
+Shams Mehdi - 0014
++8801994790448
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+20-02-202606:00AM
+Golam Noor
+Mohammad - 0742
++8801756286773
+DUE_PAYMENT, BKASH                      3000                    0                          3000                    0
+21-02-202606:00AM
+Jawad Ahanaf - 0480
++8801828065309
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+22-02-202606:00AM
+Naimur Rahman
+Abanto - 0392
++8801521436219
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+22-02-202606:00AM
+Chinmoy Chowdhury -
+0743
++8801888115711
+DUE_PAYMENT, CASH                        2500                    0                          2500                    0
+22-02-202606:00AM
+Mehran Bin Hasan -
+0122
++8801301582892
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+22-02-202606:00AM
+Md. Wasi Talukdar -
+0651
++8801728257431
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+23-02-202606:00AM
+Sabbir Hossain - 0744
++8800747598195
+REGULAR_PAYMENT, ADVANCE
+(6 month..., CASH
+8000                    2000                    6000                    0
+23-02-202606:00AM
+Syed Aharaf - 0079
++8801301875008
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+23-02-202606:00AM
+Tamim - 0740
++8801910685283
+DUE_PAYMENT, CASH                        500                      0                          500                      0
+23-02-202606:00AM
+Tahmid Ali Fahim -
+0547
++8801630253650
+REGULAR_PAYMENT, Monthly,
+CARD
+1500                    0                          1500                    0
+24-02-202606:00AM
+Musralin Anup - 0746
++8801321935609
+DUE_PAYMENT, BKASH                      4000                    0                          1000                    3000
+24-02-202606:00AM
+Musralin Anup - 0746
++8801321935609
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+5000                    0                          1000                    4000
+24-02-202606:00AM
+Tihan - 0145
++8801754455925
+REGULAR_PAYMENT, Monthly,
+CARD
+1500                    0                          1500                    0
+24-02-202606:00AM
+Riazul Zannah - 0745
++8800799399592
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+5000                    0                          5000                    0
+25-02-202606:00AM
+Tazwar Atiq
+Chaudhury - 0210
++8801620105088
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    500                      1000                    0
+25-02-202606:00AM
+Mohammad Mainul
+Hasan - 0109
++8801712762393
+REGULAR_PAYMENT, Monthly,
+CARD
+1500                    0                          1500                    0
+----------------Page (16) Break----------------
+25-02-202606:00AM
+Rakib - 0750
++8801770764111
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+5000                    0                          5000                    0
+25-02-202606:00AM
+Md Rabib Al Rafayed
+- 0749
++8801321153624
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CARD
+5000                    0                          5000                    0
+25-02-202606:00AM
+Nafis Ahmed Raiyan -
+0748
++8801744614157
+REGULAR_PAYMENT, STARTER
+(1 month..., CARD
+3500                    500                      3000                    0
+25-02-202606:00AM
+Hazzaz Galib Sakin -
+0747
++8801878941422
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          3500                    0
+28-02-202606:00AM
+Dr. Shahida Parven
+Shova - 0307
++8801601500177
+REGULAR_PAYMENT, 6 Months ,
+BKASH
+7000                    1000                    6000                    0
+28-02-202606:00AM
+Shamil Irfan - 0004
++8801753576587
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1000                    500
+28-02-202606:00AM
+Abid Mohammad -
+0687
++8801342701920
+REGULAR_PAYMENT, Monthly,
+CARD
+1500                    0                          1500                    0
+28-02-202606:00AM
+Bilash - 0193
++8801902673102
+REGULAR_PAYMENT, 3 Months ,
+CASH
+4000                    0                          2000                    2000
+01-03-202606:00AM
+Muhammed Farhan
+Sadique Mahi - 0105
++8801881960259
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+01-03-202606:00AM
+Marzuk Shehzad
+Tahmid - 0751
++8801410970905
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+5000                    0                          5000                    0
+01-03-202606:00AM
+Labib Abdullah Zawad
+- 0708
++8801410597504
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+01-03-202606:00AM
+Syed Farzeen Huq -
+0034
++8801670597979
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+01-03-202606:00AM
+Shamil Irfan - 0004
++8801753576587
+DUE_PAYMENT, CASH                        500                      0                          500                      0
+02-03-202606:00AM
+MD. Ahnaf - 0667
++8801746089571
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+02-03-202606:00AM
+Ahmed Abdullah
+Adeeb - 0754
++8801915135770
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          3500                    0
+02-03-202606:00AM
+Utsho Sarkar - 0731
++8801320390370
+DUE_PAYMENT, CASH                        100                      0                          100                      0
+02-03-202606:00AM
+Omar Mostafa - 0119
++8801757476524
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+02-03-202606:00AM
+Mahadi Bin Jashim -
+0753
++8801922786951
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+5000                    0                          2000                    3000
+----------------Page (17) Break----------------
+02-03-202606:00AM
+Md Abdullah Al
+Nahiyan - 0752
++8801711728285
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+5000                    500                      2500                    2000
+02-03-202606:00AM
+MD Fida Hasan -
+0508
++8801714463024
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+02-03-202606:00AM
+Syed Fardeen Huq -
+0082
++8801911322922
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+02-03-202606:00AM
+Musralin Anup - 0746
++8801321935609
+DUE_PAYMENT, BKASH                      3000                    0                          1000                    2000
+03-03-202606:00AM
+MD. Fahim Zaman -
+0568
++8801610772322
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          0                          1500
+03-03-202606:00AM
+Shai Emmin Elmi -
+0040
++8801721822070
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+03-03-202606:00AM
+Siam - 0100
++8801711201808
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+03-03-202606:00AM
+Zabaedur Rahman
+Zabid - 0755
++8801704719169
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          3500                    0
+03-03-202606:00AM
+Adnan Mahmud
+Rahman - 0707
++8801973282450
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1300                    200
+03-03-202606:00AM
+Md Abdullah Al
+Nahiyan - 0752
++8801711728285
+DUE_PAYMENT, CASH                        2000                    0                          2000                    0
+03-03-202606:00AM
+Fatema Jannat Moon
+- 0271
++8801770575289
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+03-03-202606:00AM
+Nafisa Tabassum -
+0711
++8801977003795
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+04-03-202606:00AM
+Fahim Ahmed Mahi -
+0756
++8801577386259
+REGULAR_PAYMENT, STARTER
+(1 month..., CASH
+3500                    0                          3500                    0
+04-03-202606:00AM
+MD. Adil Foysal Fuad
+- 0618
++8801882384813
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+04-03-202606:00AM
+Tawaf Hossain
+Sayem - 0080
++8801950047634
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+04-03-202606:00AM
+Tawaf Hossain
+Sayem - 0080
++8801950047634
+DUE_PAYMENT, CASH                        200                      0                          200                      0
+04-03-202606:00AM
+Lina Akter - 0716
++8801746172144
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+05-03-202606:00AM
+Ador - 0757
++8801717427725
+REGULAR_PAYMENT, ADVANCE
+(6 month..., CASH
+8000                    0                          8000                    0
+----------------Page (18) Break----------------
+05-03-202606:00AM
+Rizbi - 0585
++8801793707537
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+05-03-202606:00AM
+Muna Ahmed Shila -
+0571
++8801988150228
+REGULAR_PAYMENT, 3 Months ,
+CASH
+4000                    0                          4000                    0
+06-03-202606:00AM
+Sayed Ashfaq
+Hossain - 0269
++8801784399581
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+06-03-202606:00AM
+Sabbir Shahriar -
+0530
++8801806599191
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+06-03-202606:00AM
+Tariqul Islam polash -
+0270
++8801720532589
+REGULAR_PAYMENT, 3 Months ,
+CARD
+4000                    0                          4000                    0
+06-03-202606:00AM
+Abid Ahmed - 0758
++8801998625390
+REGULAR_PAYMENT, ADVANCE
+(6 month..., BKASH
+8000                    0                          8000                    0
+08-03-202606:00AM
+Sakib Uz Zaman
+Khan - 0759
++8801897582407
+REGULAR_PAYMENT, GROWTH
+(3 month ..., CASH
+5000                    0                          4000                    1000
+08-03-202606:00AM
+Kazi Tararzu Rahber -
+0129
++8801723446343
+REGULAR_PAYMENT, Monthly,
+BKASH
+1500                    0                          1500                    0
+08-03-202606:00AM
+Faria Binty Masud -
+0717
++8800746172144
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+09-03-202606:00AM
+Al-Jami Bin Rahman -
+0451
++8801314860365
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+10-03-202606:00AM
+Musralin Anup - 0746
++8801321935609
+DUE_PAYMENT, CASH                        2000                    0                          1000                    1000
+10-03-202606:00AM
+Mahin Al Din Zayan -
+0760
++8801722220992
+REGULAR_PAYMENT, GROWTH
+(3 month ..., BKASH
+5000                    0                          5000                    0
+10-03-202606:00AM
+Sakib Uz Zaman
+Khan - 0759
++8801897582407
+DUE_PAYMENT, CASH                        1000                    0                          1000                    0
+10-03-202606:00AM
+Mohammad Bin
+Hossasin - 0266
++8801316893025
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+11-03-202606:00AM
+Srijon Moshiur - 0023
++8801554514332
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    500                      1000                    0
+11-03-202606:00AM
+Farhan Ahmed Tahsin
+- 0043
++8801989925744
+REGULAR_PAYMENT, Monthly,
+CASH
+1500                    0                          1500                    0
+Total amount: 1167000.0
+Total discount: 66000.0
+Total paid: 1097500.0
+Total due: 3500.0
+----------------Page (19) Break----------------

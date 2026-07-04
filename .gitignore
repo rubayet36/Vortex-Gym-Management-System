@@ -1,0 +1,46 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+node_modules
+dist
+dist-ssr
+*.local
+
+# Editor directories and files
+.vscode/*
+!.vscode/extensions.json
+.idea
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# WhatsApp Web session credentials and cache
+.wwebjs_auth/
+.wwebjs_cache/
+zkteco-bridge/.wwebjs_auth/
+zkteco-bridge/.wwebjs_cache/
+
+# Local configuration and credentials
+.env
+.env.*
+zkteco-bridge/.env
+zkteco-bridge/.env.*
+
+# Large database dumps containing private member information
+latest_database.sql
+latest Schema.sql
+import_data.sql
+vortex_gym (4).sql
+User Data/
+*.log
+migrate.log
+parse.log
